@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensibleRecyclerView</string>
+    <string name="msg_empty_result">Nothing here!</string>
+    <string name="msg_empty_icon">Empty result icon</string>
+    <string name="msg_retry_btn">Retry</string>
+    <string name="msg_error">Something went wrong!</string>
+    <string name="msg_error_icon">Error icon</string>
+</resources>
