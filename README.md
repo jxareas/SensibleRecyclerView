@@ -14,6 +14,6 @@ allprojects {
 
 ```gradle
 	dependencies {
-	        implementation 'com.github.Indisparte:SensibleRecyclerView:Tag'
+	        implementation 'com.github.Indisparte:SensibleRecyclerView:1.0'
 	}
 ```
